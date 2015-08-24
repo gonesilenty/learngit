@@ -4,4 +4,4 @@ Hello Git a line
 Hello Git a Line go
 Git track changes
 creat a new line
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
